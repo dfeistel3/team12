@@ -1,0 +1,13 @@
+{
+	"n_targets": 5648,
+	"n_bootstraps": 100,
+	"n_processed": 25221939,
+	"n_pseudoaligned": 12491744,
+	"n_unique": 12165450,
+	"p_pseudoaligned": 49.5,
+	"p_unique": 48.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Sun Oct 17 17:13:59 2021",
+	"call": "kallisto quant -i p_aeruginosa_genbank.idx -b 100 -o p_aeruginosa_ctrl_3 ./p_aeruginosa/SRR10398414_CTRL_3/SRR10398414_1.fastq.gz ./p_aeruginosa/SRR10398414_CTRL_3/SRR10398414_2.fastq.gz"
+}

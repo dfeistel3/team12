@@ -1,0 +1,13 @@
+{
+	"n_targets": 4410,
+	"n_bootstraps": 100,
+	"n_processed": 7861622,
+	"n_pseudoaligned": 6462351,
+	"n_unique": 6359352,
+	"p_pseudoaligned": 82.2,
+	"p_unique": 80.9,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Sun Oct 17 16:04:59 2021",
+	"call": "kallisto quant -i e_coli_genbank.idx -b 100 -o e_coli_cip_2 ./e_coli/SRR12820334_CIP_M9/SRR12820334_1.fastq.gz ./e_coli/SRR12820334_CIP_M9/SRR12820334_2.fastq.gz"
+}
