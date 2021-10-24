@@ -1,0 +1,13 @@
+{
+	"n_targets": 4410,
+	"n_bootstraps": 100,
+	"n_processed": 8862147,
+	"n_pseudoaligned": 7319666,
+	"n_unique": 7172565,
+	"p_pseudoaligned": 82.6,
+	"p_unique": 80.9,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sat Oct 23 16:37:43 2021",
+	"call": "kallisto quant -i ../references_files/e_coli.idx -o SRR12820333_kallisto -b 100 -t 2 --verbose /Users/djfeistel/Desktop/GA_Tech/BIOL6150/class_project/teams12/02.trimmed/SRR12820333_trimmed_1.fastq /Users/djfeistel/Desktop/GA_Tech/BIOL6150/class_project/teams12/02.trimmed/SRR12820333_trimmed_2.fastq"
+}
